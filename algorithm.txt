@@ -1,3 +1,8 @@
 print out description of the program
 ask for the player's name
-...
+enter a for loop that will repeat 10 times
+in the for loop enter another for loop that will repeat 6 times
+create a card by printing a number on the same line and
+check if number is less that 10 if it is add a 0 before the digit
+print out good luck and the users name
+print out the estimated possible winning
